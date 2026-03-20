@@ -1,6 +1,6 @@
 # 📊 Data Science Studio
 
-> Plataforma completa de Machine Learning implementada em **Python puro** — sem NumPy, sem Pandas, sem scikit-learn. Todos os algoritmos foram construídos do zero, incluindo álgebra linear, estatística e ML. Interface web premium com Flask.
+> Plataforma completa de Machine Learning implementada em **Python puro** — sem NumPy, sem Pandas, sem scikit-learn. Todos os algoritmos foram construídos do zero, incluindo álgebra linear, estatística e ML. Interface web com Flask.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=flat&logo=flask)
